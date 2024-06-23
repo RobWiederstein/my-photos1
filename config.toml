@@ -1,6 +1,6 @@
 #https://github.com/kc0bfv/autophugo
 #settings
-baseURL = "https://stupefied-banach-d12ad4.netlify.app"
+baseURL = "https://sprightly-biscochitos-2ca4ee.netlify.app/"
 languageCode = "en-us"
 title = "Wiederstein-Nestrick Trips"
 theme = "autophugo"

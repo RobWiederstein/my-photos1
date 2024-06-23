@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Key West on Wiederstein-Nestrick Trips</title>
+    <link>http://localhost:1313/key_west/</link>
+    <description>Recent content in Key West on Wiederstein-Nestrick Trips</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>rob@robwiederstein.org (Rob Wiederstein)</managingEditor>
+    <webMaster>rob@robwiederstein.org (Rob Wiederstein)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/key_west/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

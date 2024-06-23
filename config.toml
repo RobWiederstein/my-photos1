@@ -1,0 +1,26 @@
+#https://github.com/kc0bfv/autophugo
+#settings
+baseURL = "https://stupefied-banach-d12ad4.netlify.app"
+languageCode = "en-us"
+title = "Wiederstein-Nestrick Trips"
+theme = "autophugo"
+disableKinds = ["taxonomy"]
+[Author]
+    name = "Rob Wiederstein"
+    email = "rob@robwiederstein.org"
+[params]
+    # Meta
+    description = "Cathy Nestrick and Rob Wiederstein retirement trips"
+    keywords = "rob cathy wiederstein nestrick retirement trips fun"
+    #msvalidate = ""
+    #googlesiteverification = ""
+    #thumb_width = 480
+    #thumb_quality = 50
+    #full_width = 960
+    #full_quality = 90
+    column_count = 3
+    #breadcrumb_use_title = false
+
+# Copyright
+    [params.footer.copyright]
+    name = "Rob Wiederstein"
